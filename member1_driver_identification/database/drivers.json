@@ -1,0 +1,10 @@
+{
+    "D001": {
+        "name": "Arun",
+        "vehicle_id": "V001"
+    },
+    "D002": {
+        "name": "Rahul",
+        "vehicle_id": "V002"
+    }
+}
