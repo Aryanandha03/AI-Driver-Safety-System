@@ -1,0 +1,4 @@
+opencv-python>=4.8,<5
+# This project uses MediaPipe's classic `mp.solutions.hands` API.
+# 0.10.35+ removed that API, so keep this known-compatible release.
+mediapipe==0.10.21
